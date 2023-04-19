@@ -1,2 +1,2 @@
 Proyectos realizados por Jaime Tena.
-Realizado en visual estudio 2022 haciendo uso del lenguaje c++
+Realizado en visual studio 2022 haciendo uso del lenguaje c++
